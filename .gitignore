@@ -26,6 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.DS_Store
+Amazon_FBA_Pandas_Solutions.ipynb
+Amazon_Orders_Assignment (1).ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
